@@ -1,5 +1,5 @@
 {
-  "name": "s3-lambda-ffmpeg-mov-to-mp4-s3",
+  "name": "mkv-to-mp4-lamba-application-v0001",
   "version": "1.0.0",
   "description": "A Serverless Application Repository Component for converting MOV files from one S3 bucket, into MP4 files to another S3 bucket.",
   "main": "src/index.js",
